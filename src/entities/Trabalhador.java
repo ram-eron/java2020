@@ -93,7 +93,7 @@ public class Trabalhador {
 			}
 
 		} catch (ParseException e) {
-			e.printStackTrace();
+			System.out.println(" Erro - Data invalida ");
 		}
 
 	}
